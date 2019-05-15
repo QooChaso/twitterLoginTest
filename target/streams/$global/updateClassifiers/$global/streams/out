@@ -39,6 +39,21 @@
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [compile->compile]
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [compile->master]
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [compile->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->default]
+[debug] sbt-chain: Checking cache for: dependency: com.typesafe#config;1.3.1 {compile=[default, compile, runtime, default(compile), master], runtime=[default, compile, runtime, default(compile), master], test=[default, compile, runtime, default(compile), master], compile-internal=[default, compile, runtime, default(compile), master], runtime-internal=[default, compile, runtime, default(compile), master], test-internal=[default, compile, runtime, default(compile), master]}
+[debug] sbt-chain: module revision found in cache: com.typesafe#config;1.3.1
+[debug] 	found com.typesafe#config;1.3.1 in sbt-chain
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->default(compile)]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->master]
 [debug] resolving dependencies for configuration 'runtime'
 [debug] == resolving dependencies for default#twittertest$sources;0.1 [runtime]
 [debug] == resolving dependencies for default#twittertest$sources;0.1 [compile]
@@ -70,6 +85,18 @@
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [compile->compile]
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [compile->master]
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [compile->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->default]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->default(compile)]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->master]
 [debug] == resolving dependencies default#twittertest$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->default]
 [debug] == resolving dependencies default#twittertest$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->runtime]
 [debug] == resolving dependencies default#twittertest$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->compile]
@@ -98,6 +125,18 @@
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [runtime->compile]
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [runtime->master]
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [runtime->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->default]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->default(compile)]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->master]
 [debug] resolving dependencies for configuration 'test'
 [debug] == resolving dependencies for default#twittertest$sources;0.1 [test]
 [debug] == resolving dependencies for default#twittertest$sources;0.1 [runtime]
@@ -130,6 +169,18 @@
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [compile->compile]
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [compile->master]
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [compile->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->default]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->default(compile)]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->master]
 [debug] == resolving dependencies default#twittertest$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->default]
 [debug] == resolving dependencies default#twittertest$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->runtime]
 [debug] == resolving dependencies default#twittertest$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->compile]
@@ -158,6 +209,18 @@
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [runtime->compile]
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [runtime->master]
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [runtime->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->default]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->default(compile)]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->master]
 [debug] == resolving dependencies default#twittertest$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->default]
 [debug] == resolving dependencies default#twittertest$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->runtime]
 [debug] == resolving dependencies default#twittertest$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->compile]
@@ -186,6 +249,18 @@
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [test->compile]
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [test->master]
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [test->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test->default]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test->default(compile)]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test->master]
 [debug] resolving dependencies for configuration 'provided'
 [debug] == resolving dependencies for default#twittertest$sources;0.1 [provided]
 [debug] resolving dependencies for configuration 'optional'
@@ -221,6 +296,18 @@
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [compile->compile]
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [compile->master]
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [compile->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->default]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->default(compile)]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->master]
 [debug] == resolving dependencies for default#twittertest$sources;0.1 [optional]
 [debug] == resolving dependencies for default#twittertest$sources;0.1 [provided]
 [debug] == resolving dependencies default#twittertest$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile-internal->default]
@@ -251,6 +338,18 @@
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [compile-internal->compile]
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [compile-internal->master]
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [compile-internal->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile-internal->default]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile-internal->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile-internal->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile-internal->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile-internal->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile-internal->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile-internal->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile-internal->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile-internal->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile-internal->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile-internal->master]
 [debug] resolving dependencies for configuration 'runtime-internal'
 [debug] == resolving dependencies for default#twittertest$sources;0.1 [runtime-internal]
 [debug] == resolving dependencies for default#twittertest$sources;0.1 [runtime]
@@ -283,6 +382,18 @@
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [compile->compile]
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [compile->master]
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [compile->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->default]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->default(compile)]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->master]
 [debug] == resolving dependencies default#twittertest$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->default]
 [debug] == resolving dependencies default#twittertest$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->runtime]
 [debug] == resolving dependencies default#twittertest$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->compile]
@@ -311,6 +422,18 @@
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [runtime->compile]
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [runtime->master]
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [runtime->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->default]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->default(compile)]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->master]
 [debug] == resolving dependencies for default#twittertest$sources;0.1 [optional]
 [debug] == resolving dependencies default#twittertest$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime-internal->default]
 [debug] == resolving dependencies default#twittertest$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime-internal->runtime]
@@ -340,6 +463,18 @@
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [runtime-internal->compile]
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [runtime-internal->master]
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [runtime-internal->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime-internal->default]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime-internal->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime-internal->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime-internal->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime-internal->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime-internal->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime-internal->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime-internal->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime-internal->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime-internal->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime-internal->master]
 [debug] resolving dependencies for configuration 'test-internal'
 [debug] == resolving dependencies for default#twittertest$sources;0.1 [test-internal]
 [debug] == resolving dependencies for default#twittertest$sources;0.1 [test]
@@ -373,6 +508,18 @@
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [compile->compile]
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [compile->master]
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [compile->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->default]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->default(compile)]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [compile->master]
 [debug] == resolving dependencies default#twittertest$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->default]
 [debug] == resolving dependencies default#twittertest$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->runtime]
 [debug] == resolving dependencies default#twittertest$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->compile]
@@ -401,6 +548,18 @@
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [runtime->compile]
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [runtime->master]
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [runtime->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->default]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->default(compile)]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [runtime->master]
 [debug] == resolving dependencies default#twittertest$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->default]
 [debug] == resolving dependencies default#twittertest$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->runtime]
 [debug] == resolving dependencies default#twittertest$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->compile]
@@ -429,6 +588,18 @@
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [test->compile]
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [test->master]
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [test->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test->default]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test->default(compile)]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test->master]
 [debug] == resolving dependencies for default#twittertest$sources;0.1 [optional]
 [debug] == resolving dependencies for default#twittertest$sources;0.1 [provided]
 [debug] == resolving dependencies default#twittertest$sources;0.1->org.scala-lang#scala-library;2.12.8 [test-internal->default]
@@ -459,6 +630,18 @@
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [test-internal->compile]
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [test-internal->master]
 [debug] == resolving dependencies default#twittertest$sources;0.1->com.softwaremill.sttp#core_2.12;1.5.11 [test-internal->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test-internal->default]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test-internal->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test-internal->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test-internal->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test-internal->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test-internal->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test-internal->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test-internal->default(compile)]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test-internal->runtime]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test-internal->compile]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test-internal->master]
+[debug] == resolving dependencies default#twittertest$sources;0.1->com.typesafe#config;1.3.1 [test-internal->master]
 [debug] resolving dependencies for configuration 'plugin'
 [debug] == resolving dependencies for default#twittertest$sources;0.1 [plugin]
 [debug] resolving dependencies for configuration 'pom'
@@ -525,35 +708,14 @@
 [debug] == resolving dependencies default#twittertest$sources;0.1->jline#jline;2.14.6 [scala-tool->master]
 [debug] 	resolved ivy file produced in cache
 [debug] :: downloading artifacts ::
-[debug] 		tried /Users/Qoo/.ivy2/local/com.softwaremill.sttp/core_2.12/1.5.11/srcs/core_2.12-sources.jar
+[debug] 	[NOT REQUIRED] com.softwaremill.sttp#core_2.12;1.5.11!core_2.12.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.12.8!scala-library.jar(src)
-[debug] 		tried https://repo1.maven.org/maven2/com/softwaremill/sttp/core_2.12/1.5.11/core_2.12-1.5.11-sources.jar
-[debug] no default ivy user dir defined: set to /Users/Qoo/.ivy2
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.12.8!scala-compiler.jar(src)
-[debug] including url: jar:file:/Users/Qoo/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.8!scala-reflect.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.14.6!jline.jar(src)
-[debug] no default cache defined: set to /Users/Qoo/.ivy2/cache
-[debug] including url: jar:file:/Users/Qoo/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] including url: jar:file:/Users/Qoo/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] including url: jar:file:/Users/Qoo/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] including url: jar:file:/Users/Qoo/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] settings loaded (39ms)
-[debug] 	default cache: /Users/Qoo/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
-[info] downloading https://repo1.maven.org/maven2/com/softwaremill/sttp/core_2.12/1.5.11/core_2.12-1.5.11-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/softwaremill/sttp/core_2.12/1.5.11/core_2.12-1.5.11-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/softwaremill/sttp/core_2.12/1.5.11/core_2.12-1.5.11-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/softwaremill/sttp/core_2.12/1.5.11/core_2.12-1.5.11-sources.jar
-[info] 	[SUCCESSFUL ] com.softwaremill.sttp#core_2.12;1.5.11!core_2.12.jar(src) (553ms)
-[debug] :: resolution report :: resolve 601ms :: artifacts dl 580ms
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.8!scala-reflect.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.12.8!scala-compiler.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe#config;1.3.1!config.jar(src)
+[debug] :: resolution report :: resolve 307ms :: artifacts dl 10ms
 [debug] 	report for default#twittertest$sources;0.1 compile produced in /Users/Qoo/twitterTest/target/scala-2.12/resolution-cache/reports/default-twittertest$sources-compile.xml
 [debug] 	report for default#twittertest$sources;0.1 runtime produced in /Users/Qoo/twitterTest/target/scala-2.12/resolution-cache/reports/default-twittertest$sources-runtime.xml
 [debug] 	report for default#twittertest$sources;0.1 test produced in /Users/Qoo/twitterTest/target/scala-2.12/resolution-cache/reports/default-twittertest$sources-test.xml
@@ -565,4 +727,4 @@
 [debug] 	report for default#twittertest$sources;0.1 plugin produced in /Users/Qoo/twitterTest/target/scala-2.12/resolution-cache/reports/default-twittertest$sources-plugin.xml
 [debug] 	report for default#twittertest$sources;0.1 pom produced in /Users/Qoo/twitterTest/target/scala-2.12/resolution-cache/reports/default-twittertest$sources-pom.xml
 [debug] 	report for default#twittertest$sources;0.1 scala-tool produced in /Users/Qoo/twitterTest/target/scala-2.12/resolution-cache/reports/default-twittertest$sources-scala-tool.xml
-[debug] 	resolve done (601ms resolve - 580ms download)
+[debug] 	resolve done (307ms resolve - 10ms download)
